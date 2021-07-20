@@ -1,0 +1,154 @@
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formMain.resources
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.Resources.resources
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.vbproj.GenerateResource.Cache
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.pdb
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.xml
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.exe
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.xml
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.pdb
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\AllCardTech_UMID.dll
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\dotNetUMIDSAM.dll
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\ClassWinsCard.dll
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\dotNetGlobalPlatform.dll
+D:\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe.config
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe.config
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.exe
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.xml
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.pdb
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.pdb
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.xml
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\bin\Debug\dotNetGlobalPlatform.dll
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formMain.resources
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.Resources.resources
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.vbproj.GenerateResource.Cache
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe.config
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.exe
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.xml
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.pdb
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.pdb
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.xml
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\AllCardTech_UMID.dll
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\dotNetGlobalPlatform.dll
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\dotNetUMIDSAM.dll
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\bin\Debug\ClassWinsCard.dll
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\ResolveAssemblyReference.cache
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formMain.resources
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.Resources.resources
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.vbproj.GenerateResource.Cache
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formSettings.resources
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formSettings.resources
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe.config
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.exe
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.xml
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.pdb
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.pdb
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.xml
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\bin\Debug\AllCardTech_UMID.dll
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\bin\Debug\dotNetGlobalPlatform.dll
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\bin\Debug\dotNetUMIDSAM.dll
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\bin\Debug\ClassWinsCard.dll
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\obj\Debug\ResolveAssemblyReference.cache
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formMain.resources
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formSettings.resources
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.Resources.resources
+E:\SSS PERSO PROJECT\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.vbproj.GenerateResource.Cache
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_ChangePassword.resources
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_Login.resources
+D:\BP Visual Studio Projects\Visual Studio 2008\Projects\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formUserMaintenance.resources
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formUserMaintenance.resources
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_ChangePassword.resources
+D:\Documents\Projects\VB 2008\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_Login.resources
+D:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe.config
+D:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.exe
+D:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.xml
+D:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.pdb
+F:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe.config
+F:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.exe
+F:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.xml
+F:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.pdb
+F:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe
+F:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.pdb
+F:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.xml
+F:\UMIDCardPerso\UMIDCardPerso\bin\Debug\dotNetGlobalPlatform.dll
+F:\UMIDCardPerso\UMIDCardPerso\obj\Debug\ResolveAssemblyReference.cache
+F:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formMain.resources
+F:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formSettings.resources
+F:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formUserMaintenance.resources
+F:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_ChangePassword.resources
+F:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_Login.resources
+F:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.Resources.resources
+F:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.vbproj.GenerateResource.Cache
+G:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe.config
+G:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe
+G:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.pdb
+G:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.xml
+G:\UMIDCardPerso\UMIDCardPerso\bin\Debug\dotNetGlobalPlatform.dll
+G:\UMIDCardPerso\UMIDCardPerso\obj\Debug\ResolveAssemblyReference.cache
+G:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formMain.resources
+G:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formSettings.resources
+G:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formUserMaintenance.resources
+G:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_ChangePassword.resources
+G:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_Login.resources
+G:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.Resources.resources
+G:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.vbproj.GenerateResource.Cache
+G:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.exe
+G:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.xml
+G:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.pdb
+E:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe.config
+E:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.exe
+E:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.xml
+E:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.pdb
+E:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe
+E:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.pdb
+E:\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.xml
+E:\UMIDCardPerso\UMIDCardPerso\bin\Debug\dotNetGlobalPlatform.dll
+E:\UMIDCardPerso\UMIDCardPerso\obj\Debug\ResolveAssemblyReference.cache
+E:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formMain.resources
+E:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formSettings.resources
+E:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.formUserMaintenance.resources
+E:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_ChangePassword.resources
+E:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_Login.resources
+E:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.Resources.resources
+E:\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.vbproj.GenerateResource.Cache
+E:\From Other Flash Drive\UMIDCardPerso\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe.config
+E:\From Other Flash Drive\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.exe
+E:\From Other Flash Drive\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.xml
+E:\From Other Flash Drive\UMIDCardPerso\UMIDCardPerso\obj\Debug\UMIDCardPerso.pdb
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe.config
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\bin\Debug\UMIDCardPerso.pdb
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\bin\Debug\UMIDCardPerso.xml
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\bin\Debug\dotNetGlobalPlatform.dll
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.formMain.resources
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.formSettings.resources
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.formUserMaintenance.resources
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_ChangePassword.resources
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_Login.resources
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.Resources.resources
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.vbproj.GenerateResource.Cache
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.exe
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.xml
+C:\Users\EDEL\Desktop\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.pdb
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe.config
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\bin\Debug\UMIDCardPerso.exe
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\bin\Debug\UMIDCardPerso.pdb
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\bin\Debug\UMIDCardPerso.xml
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\bin\Debug\dotNetGlobalPlatform.dll
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.formMain.resources
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.formSettings.resources
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.formUserMaintenance.resources
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_ChangePassword.resources
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.form_Login.resources
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.Resources.resources
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.vbproj.GenerateResource.Cache
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.exe
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.xml
+E:\Projects\UMIDCardPerso-Revised 03152011\UMIDCardPerso\obj\Debug\UMIDCardPerso.pdb
